@@ -1,0 +1,3 @@
+1. learned to how to use the server side
+2. learned to how to use github amd git commands
+3. learned to how to connect frontend with backend
